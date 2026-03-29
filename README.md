@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Mircea Sava
 
-<!--
-**28mirceas/28mirceas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior QA Automation Engineer in training with hands-on experience in Python, Selenium, API testing and SQL.
 
-Here are some ideas to get you started:
+## Technical Skills
+- Python (OOP, unittest)
+- Selenium WebDriver
+- API Testing (requests)
+- BDD (Behave)
+- SQL (MySQL)
+- HTML, CSS, JavaScript (basic)
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## QA Automation Projects
+Here are some of my automation testing projects:
+
+### UI Automation (Selenium + BDD)
+- SauceDemo Automation Testing
+- OrangeHRM Automation Testing
+
+### API Testing
+- Restful Booker API Tests
+- JSONPlaceholder API Tests
+
+You can check all my projects in the repositories below.
+
+## Currently
+I am looking for an entry-level QA Automation position where I can apply my knowledge and continue learning.
+
