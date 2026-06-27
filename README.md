@@ -16,7 +16,7 @@ Here are some of my automation testing projects:
 
 ### UI Automation (Selenium + BDD)
 - SauceDemo Automation Testing
-- OrangeHRM Automation Testing
+- Demoblaze Automation Testing
 
 ### API Testing
 - Restful Booker API Tests
